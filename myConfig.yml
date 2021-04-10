@@ -1,8 +1,0 @@
-bundle:
-  description: No description specified
-  title: No title Specified
-plugins:
-  github-autostatus:
-    - 3.6.2
-  quayio-trigger:
-    - '0.1'
